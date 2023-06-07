@@ -1,0 +1,12 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.top-inputs-el {
+  margin-top: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+}

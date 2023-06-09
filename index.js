@@ -27,6 +27,8 @@ function getColorScheme() {
     });
 }
 
+// Eventlistener
+
 submitBtn.addEventListener("click", function () {
   colorSelected = colorPicker.value;
   schemeSelected = document.querySelector("select").value;
